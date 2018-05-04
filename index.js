@@ -1,8 +1,6 @@
 // write your code below!
-var happyHolidays = () => "Happy holidays!"
-var happyHolidaysTo(name) {
-  return 'Happy holidays, ' + name + '!';
-}
+var happyHolidays = () => "Happy holidays!";
+var happyHolidaysTo(name) => 'Happy holidays, ' + name + '!';
 function happyHolidayTo(holiday, name) {
   return 'Happy ' + holiday + ', ' + name + '!';
 }
